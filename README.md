@@ -1,4 +1,4 @@
-![Simulator Screen Shot - iPhone 8 - 2021-07-03 at 22 04 59](https://user-images.githubusercontent.com/75353075/124361256-c3c41e80-dc4b-11eb-9f4e-b5c56c5f4e5d.png)
+
 # tic-tac-game
 This aap contain the game of tic tac toe
 
@@ -28,3 +28,5 @@ Images:
 
 ![Simulator Screen Shot - iPhone 8 - 2021-07-03 at 22 05 30](https://user-images.githubusercontent.com/75353075/124361290-f9690780-dc4b-11eb-8295-d1e460cfc3c2.png)
 
+
+![Simulator Screen Shot - iPhone 8 - 2021-07-03 at 22 04 59](https://user-images.githubusercontent.com/75353075/124361256-c3c41e80-dc4b-11eb-9f4e-b5c56c5f4e5d.png)
